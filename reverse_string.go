@@ -1,6 +1,6 @@
 package reverse_string
 
-func main(input string) (output string) {
+func ReverseString(input string) (output string) {
 	r := []rune(input)
 	var src []rune
 	for i := len(r) - 1; i >= 0; i-- {
