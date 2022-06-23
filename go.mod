@@ -1,3 +1,3 @@
-module golang-united-school-homework-4.1
+module main
 
 go 1.17
